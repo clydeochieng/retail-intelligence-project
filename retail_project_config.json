@@ -1,0 +1,51 @@
+{
+    "project_name": "Retail Intelligence Pricing and Demand Analysis",
+    "dataset": "retail_pricing_demand_100k.csv",
+    "focus_areas": [
+        "EDA",
+        "Machine Learning",
+        "Demand Forecasting",
+        "Price Elasticity",
+        "Promotion Analytics",
+        "Inventory Optimization",
+        "Dashboarding"
+    ],
+    "recommended_models": [
+        "Linear Regression",
+        "Random Forest",
+        "XGBoost"
+    ],
+    "dashboard_sections": [
+        "Executive Overview",
+        "Revenue Dashboard",
+        "Promotion Dashboard",
+        "Inventory Dashboard",
+        "Forecast Dashboard"
+    ],
+    "business_questions": [
+        "How do discounts affect demand?",
+        "Which promotions generate the most revenue?",
+        "Which products face stockout risk?",
+        "Which channels perform best?",
+        "Can future demand be predicted?"
+    ],
+    "tech_stack": {
+        "analysis": [
+            "Python",
+            "Pandas",
+            "NumPy"
+        ],
+        "visualization": [
+            "Matplotlib",
+            "Seaborn"
+        ],
+        "machine_learning": [
+            "Scikit-learn",
+            "XGBoost"
+        ],
+        "dashboarding": [
+            "Power BI",
+            "Streamlit"
+        ]
+    }
+}
